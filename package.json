@@ -1,0 +1,21 @@
+{
+  "name": "promise.webworker",
+  "version": "0.1.0",
+  "description": "promise-webworker",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smilealawn/promise-webworker.git"
+  },
+  "keywords": [
+    "webworker"
+  ],
+  "author": "alawnxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smilealawn/promise-webworker/issues"
+  },
+  "homepage": "https://github.com/smilealawn/promise-webworker#readme"
+}
